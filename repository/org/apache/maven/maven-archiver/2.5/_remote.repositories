@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Nov 23 20:43:16 CST 2017
+#Tue Jun 05 14:31:16 CST 2018
+maven-archiver-2.5.jar>aliyun=
 maven-archiver-2.5.pom>nexus-aliyun=
+maven-archiver-2.5.pom>aliyun=
 maven-archiver-2.5.jar>nexus-aliyun=

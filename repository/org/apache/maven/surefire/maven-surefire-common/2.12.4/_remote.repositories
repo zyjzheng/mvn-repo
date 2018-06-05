@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Nov 23 20:43:15 CST 2017
+#Tue Jun 05 14:31:15 CST 2018
 maven-surefire-common-2.12.4.jar>nexus-aliyun=
+maven-surefire-common-2.12.4.pom>aliyun=
+maven-surefire-common-2.12.4.jar>aliyun=
 maven-surefire-common-2.12.4.pom>nexus-aliyun=

@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Nov 23 20:43:01 CST 2017
+#Tue Jun 05 14:30:57 CST 2018
+junit-4.12.jar>aliyun=
 junit-4.12.jar>nexus-aliyun=
+junit-4.12.pom>aliyun=
 junit-4.12.pom>nexus-aliyun=
