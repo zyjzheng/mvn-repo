@@ -1,5 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jun 05 14:30:58 CST 2018
+#Tue Jun 05 14:36:26 CST 2018
 maven-plugin-api-2.0.6.pom>nexus-aliyun=
 maven-plugin-api-2.0.6.jar>nexus-aliyun=
 maven-plugin-api-2.0.6.pom>aliyun=
+maven-plugin-api-2.0.6.jar>aliyun=

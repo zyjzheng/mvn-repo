@@ -1,5 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Jun 05 14:31:08 CST 2018
+#Tue Jun 05 14:34:06 CST 2018
 maven-core-2.0.9.pom>nexus-aliyun=
 maven-core-2.0.9.jar>nexus-aliyun=
 maven-core-2.0.9.pom>aliyun=
+maven-core-2.0.9.jar>aliyun=
